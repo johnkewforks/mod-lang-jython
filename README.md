@@ -55,9 +55,9 @@ Nice! Now we`re ready for testing:
 
 ```python
 # test.py
-import env
+import sys
 
-print env.version
+print sys.version
 
 # --> # 2.7b1 (default:ac42d59644e9, Feb 9 2013, 15:24:52) 
 #     [OpenJDK Server VM (Oracle Corporation)]
