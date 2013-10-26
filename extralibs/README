@@ -1,4 +1,0 @@
-We have forked jython in order to fix these memory leaks which were causing us problems.
-http://bugs.jython.org/issue1327
-http://bugs.jython.org/issue1746
-
