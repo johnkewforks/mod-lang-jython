@@ -12,7 +12,7 @@ free to create a related issue.
 
 ### Installing
 
-I makes this as follows:
+I make this as follows:
 
 ```bash
 $ git clone https://github.com/rdolgushin/mod-lang-jython
